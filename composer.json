@@ -1,0 +1,20 @@
+{
+    "name": "sigita/backend_homework",
+    "authors": [
+        {
+            "name": "sigita",
+            "email": "cepauskiki@gmail.com"
+        }
+    ],
+    "require": {
+        "markrogoyski/math-php": "0.*",
+        "php": ">=7.2.0"
+
+    },
+    "autoload": {
+        "files": [
+            "src/File1.php",
+            "src/File2.php"
+        ]
+    }
+}
