@@ -2,306 +2,301 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0db3181b-1a27-40a7-8c3e-02a2bdc71fa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/backend_homework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/coding_standard.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Algebra.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Arithmetic.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Exception/BadDataException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Exception/BadParameterException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Exception/IncorrectTypeException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Exception/MathException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Exception/MatrixException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Exception/OutOfBoundsException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Exception/SingularMatrixException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Exception/VectorException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Finance.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Functions/Arithmetic.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Functions/Bitwise.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Functions/Map/Multi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Functions/Map/Single.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Functions/Piecewise.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Functions/Polynomial.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Functions/Special.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Functions/Support.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/InformationTheory/Entropy.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/ColumnVector.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/DiagonalMatrix.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/Eigenvalue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/Eigenvector.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/FunctionMatrix.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/FunctionSquareMatrix.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/Matrix.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/MatrixFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/ObjectSquareMatrix.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/RowVector.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/SquareMatrix.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/VandermondeMatrix.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/VandermondeSquareMatrix.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/Vector.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Number/Complex.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Number/ObjectArithmetic.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Number/Rational.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumberTheory/Integer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/Interpolation/ClampedCubicSpline.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/Interpolation/Interpolation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/Interpolation/LagrangePolynomial.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/Interpolation/NaturalCubicSpline.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/Interpolation/NevillesMethod.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/Interpolation/NewtonPolynomialForward.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalDifferentiation/FivePointFormula.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalDifferentiation/NumericalDifferentiation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalDifferentiation/SecondDerivativeMidpointFormula.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalDifferentiation/ThreePointFormula.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalIntegration/BoolesRule.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalIntegration/MidpointRule.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalIntegration/NumericalIntegration.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalIntegration/RectangleMethod.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalIntegration/SimpsonsRule.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalIntegration/SimpsonsThreeEighthsRule.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalIntegration/TrapezoidalRule.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalIntegration/Validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/RootFinding/BisectionMethod.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/RootFinding/FixedPointIteration.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/RootFinding/NewtonsMethod.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/RootFinding/SecantMethod.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/RootFinding/Validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Combinatorics.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Beta.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Cauchy.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/ChiSquared.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Continuous.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/ContinuousDistribution.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/DiracDelta.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Exponential.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/F.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Gamma.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Laplace.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/LogLogistic.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/LogNormal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Logistic.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/NoncentralT.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Normal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Pareto.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/StandardNormal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/StudentT.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Uniform.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Weibull.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Bernoulli.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Binomial.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Categorical.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Discrete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Geometric.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Hypergeometric.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Multinomial.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/NegativeBinomial.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Pascal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Poisson.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/ShiftedGeometric.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Uniform.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Distribution.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Multivariate/Dirichlet.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Multivariate/Normal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Table/ChiSquared.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Table/StandardNormal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Table/TDistribution.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Sequence/Advanced.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Sequence/Basic.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/SetTheory/ImmutableSet.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/SetTheory/Set.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/ANOVA.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Average.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Circular.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Correlation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Descriptive.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Distance.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Distribution.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/EffectSize.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Experiment.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/KernelDensityEstimation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/RandomVariable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/HanesWoolf.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/LOESS.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/Linear.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/LinearThroughPoint.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/LineweaverBurk.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/Methods/LeastSquares.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/Methods/WeightedLeastSquares.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/Models/LinearModel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/Models/MichaelisMenten.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/Models/PowerModel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/NonParametricRegression.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/ParametricRegression.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/PowerLaw.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/Regression.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/TheilSen.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/WeightedLinear.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Significance.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Trigonometry.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Algebra/AlgebraTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Arithmetic/ArithmeticAxiomsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Arithmetic/ArithmeticTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Finance/FinanceTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Functions/ArithmeticTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Functions/BitwiseTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Functions/Map/MultiTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Functions/Map/SingleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Functions/PiecewiseTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Functions/PolynomialAxiomsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Functions/PolynomialTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Functions/SpecialTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Functions/SupportTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/InformationTheory/EntropyTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/ColumnVectorTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/DiagonalMatrixTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/EigenvalueTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/EigenvectorTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/FunctionMatrixTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/FunctionSquareMatrixTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixAxiomsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixColumnOperationsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixDataProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixDecompositionsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixFactoryTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixNormsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixOperationsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixPropertiesTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixRowOperationsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/ObjectSquareMatrixTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/RowVectorTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/SquareMatrixTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/VandermondeMatrixTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/VandermondeSquareMatrixTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/VectorAxiomsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/VectorNormsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/VectorOperationsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/VectorTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Number/ComplexAxiomsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Number/ComplexTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Number/RationalTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumberTheory/IntegerAxiomsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumberTheory/IntegerTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/Interpolation/ClampedCubicSplineTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/Interpolation/InterpolationTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/Interpolation/LagrangePolynomialTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/Interpolation/NaturalCubicSplineTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/Interpolation/NevillesMethodTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/Interpolation/NewtonPolynomialForwardTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalDifferentiation/FivePointFormulaTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalDifferentiation/NumericalDifferentiationTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalDifferentiation/SecondDerivativeMidpointFormulaTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalDifferentiation/ThreePointFormulaTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalIntegration/BoolesRuleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalIntegration/MidpointRuleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalIntegration/NumericalIntegrationTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalIntegration/RectangleMethodTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalIntegration/SimpsonsRuleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalIntegration/SimpsonsThreeEighthsRuleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalIntegration/TrapezoidalRuleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/RootFinding/BisectionMethodTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/RootFinding/FixedPointIterationTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/RootFinding/NewtonsMethodTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/RootFinding/SecantMethodTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/CombinatoricsAxiomsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/CombinatoricsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/BetaTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/CauchyTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/ChiSquaredTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/DiracDeltaTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/ExponentialTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/FTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/GammaTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/LaplaceTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/LimitsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/LogLogisticTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/LogNormalTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/LogisticTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/NoncentralTTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/NormalTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/ParetoTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/StandardNormalTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/StudentTTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/UniformTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/WeibullTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/BernoulliTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/BinomialTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/CategoricalTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/GeometricTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/HypergeometricTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/LimitsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/MultinomialTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/NegativeBinomialTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/PascalTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/PoissonTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/ShiftedGeometricTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/UniformTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Multivariate/DirichletTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Multivariate/LimitsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Multivariate/NormalTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Table/ChiSquaredTableTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Table/StandardNormalTableTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Table/TDistributionTableTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Sequence/AdvancedTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Sequence/BasicTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/SetTheory/ImmutableSetTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/SetTheory/SetAxiomsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/SetTheory/SetOperationsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/SetTheory/SetTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/ANOVATest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/AverageTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/CircularTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/CorrelationTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/DescriptiveTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/DistanceTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/DistributionTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/EffectSizeTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/ExperimentTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/KernelDensityEstimationTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/RandomVariableTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/HanesWoolfTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/LOESSTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/LinearTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/LinearThroughPointTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/LineweaverBurkTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/Methods/LeastSquaresTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/PowerLawTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/RegressionTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/TheilSenTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/WeightedLinearTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/SignificanceTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Trigonometry/TrigonometryTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/bootstrap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/phpunit.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../secondweb/src/Controller/FirstController.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../secondweb/src/Views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/backend_homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/backend_homework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/coding_standard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Algebra.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Arithmetic.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Exception/BadDataException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Exception/BadParameterException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Exception/IncorrectTypeException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Exception/MathException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Exception/MatrixException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Exception/OutOfBoundsException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Exception/SingularMatrixException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Exception/VectorException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Finance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Functions/Arithmetic.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Functions/Bitwise.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Functions/Map/Multi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Functions/Map/Single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Functions/Piecewise.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Functions/Polynomial.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Functions/Special.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Functions/Support.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/InformationTheory/Entropy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/ColumnVector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/DiagonalMatrix.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/Eigenvalue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/Eigenvector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/FunctionMatrix.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/FunctionSquareMatrix.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/Matrix.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/MatrixFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/ObjectSquareMatrix.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/RowVector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/SquareMatrix.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/VandermondeMatrix.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/VandermondeSquareMatrix.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/LinearAlgebra/Vector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Number/Complex.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Number/ObjectArithmetic.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Number/Rational.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumberTheory/Integer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/Interpolation/ClampedCubicSpline.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/Interpolation/Interpolation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/Interpolation/LagrangePolynomial.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/Interpolation/NaturalCubicSpline.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/Interpolation/NevillesMethod.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/Interpolation/NewtonPolynomialForward.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalDifferentiation/FivePointFormula.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalDifferentiation/NumericalDifferentiation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalDifferentiation/SecondDerivativeMidpointFormula.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalDifferentiation/ThreePointFormula.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalIntegration/BoolesRule.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalIntegration/MidpointRule.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalIntegration/NumericalIntegration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalIntegration/RectangleMethod.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalIntegration/SimpsonsRule.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalIntegration/SimpsonsThreeEighthsRule.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalIntegration/TrapezoidalRule.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/NumericalIntegration/Validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/RootFinding/BisectionMethod.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/RootFinding/FixedPointIteration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/RootFinding/NewtonsMethod.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/RootFinding/SecantMethod.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/NumericalAnalysis/RootFinding/Validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Combinatorics.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Beta.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Cauchy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/ChiSquared.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Continuous.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/ContinuousDistribution.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/DiracDelta.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Exponential.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/F.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Gamma.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Laplace.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/LogLogistic.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/LogNormal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Logistic.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/NoncentralT.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Normal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Pareto.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/StandardNormal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/StudentT.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Uniform.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Continuous/Weibull.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Bernoulli.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Binomial.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Categorical.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Discrete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Geometric.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Hypergeometric.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Multinomial.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/NegativeBinomial.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Pascal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Poisson.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/ShiftedGeometric.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Discrete/Uniform.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Distribution.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Multivariate/Dirichlet.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Multivariate/Normal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Table/ChiSquared.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Table/StandardNormal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Probability/Distribution/Table/TDistribution.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Sequence/Advanced.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Sequence/Basic.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/SetTheory/ImmutableSet.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/SetTheory/Set.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/ANOVA.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Average.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Circular.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Correlation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Descriptive.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Distance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Distribution.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/EffectSize.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Experiment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/KernelDensityEstimation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/RandomVariable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/HanesWoolf.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/LOESS.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/Linear.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/LinearThroughPoint.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/LineweaverBurk.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/Methods/LeastSquares.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/Methods/WeightedLeastSquares.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/Models/LinearModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/Models/MichaelisMenten.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/Models/PowerModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/NonParametricRegression.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/ParametricRegression.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/PowerLaw.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/Regression.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/TheilSen.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Regression/WeightedLinear.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Statistics/Significance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/src/Trigonometry.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Algebra/AlgebraTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Arithmetic/ArithmeticAxiomsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Arithmetic/ArithmeticTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Finance/FinanceTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Functions/ArithmeticTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Functions/BitwiseTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Functions/Map/MultiTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Functions/Map/SingleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Functions/PiecewiseTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Functions/PolynomialAxiomsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Functions/PolynomialTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Functions/SpecialTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Functions/SupportTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/InformationTheory/EntropyTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/ColumnVectorTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/DiagonalMatrixTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/EigenvalueTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/EigenvectorTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/FunctionMatrixTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/FunctionSquareMatrixTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixAxiomsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixColumnOperationsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixDataProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixDecompositionsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixFactoryTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixNormsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixOperationsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixPropertiesTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixRowOperationsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/MatrixTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/ObjectSquareMatrixTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/RowVectorTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/SquareMatrixTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/VandermondeMatrixTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/VandermondeSquareMatrixTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/VectorAxiomsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/VectorNormsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/VectorOperationsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/LinearAlgebra/VectorTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Number/ComplexAxiomsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Number/ComplexTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Number/RationalTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumberTheory/IntegerAxiomsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumberTheory/IntegerTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/Interpolation/ClampedCubicSplineTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/Interpolation/InterpolationTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/Interpolation/LagrangePolynomialTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/Interpolation/NaturalCubicSplineTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/Interpolation/NevillesMethodTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/Interpolation/NewtonPolynomialForwardTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalDifferentiation/FivePointFormulaTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalDifferentiation/NumericalDifferentiationTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalDifferentiation/SecondDerivativeMidpointFormulaTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalDifferentiation/ThreePointFormulaTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalIntegration/BoolesRuleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalIntegration/MidpointRuleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalIntegration/NumericalIntegrationTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalIntegration/RectangleMethodTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalIntegration/SimpsonsRuleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalIntegration/SimpsonsThreeEighthsRuleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/NumericalIntegration/TrapezoidalRuleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/RootFinding/BisectionMethodTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/RootFinding/FixedPointIterationTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/RootFinding/NewtonsMethodTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/NumericalAnalysis/RootFinding/SecantMethodTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/CombinatoricsAxiomsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/CombinatoricsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/BetaTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/CauchyTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/ChiSquaredTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/DiracDeltaTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/ExponentialTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/FTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/GammaTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/LaplaceTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/LimitsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/LogLogisticTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/LogNormalTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/LogisticTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/NoncentralTTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/NormalTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/ParetoTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/StandardNormalTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/StudentTTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/UniformTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Continuous/WeibullTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/BernoulliTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/BinomialTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/CategoricalTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/GeometricTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/HypergeometricTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/LimitsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/MultinomialTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/NegativeBinomialTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/PascalTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/PoissonTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/ShiftedGeometricTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Discrete/UniformTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Multivariate/DirichletTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Multivariate/LimitsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Multivariate/NormalTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Table/ChiSquaredTableTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Table/StandardNormalTableTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Probability/Distribution/Table/TDistributionTableTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Sequence/AdvancedTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Sequence/BasicTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/SetTheory/ImmutableSetTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/SetTheory/SetAxiomsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/SetTheory/SetOperationsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/SetTheory/SetTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/ANOVATest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/AverageTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/CircularTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/CorrelationTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/DescriptiveTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/DistanceTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/DistributionTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/EffectSizeTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/ExperimentTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/KernelDensityEstimationTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/RandomVariableTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/HanesWoolfTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/LOESSTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/LinearTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/LinearThroughPointTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/LineweaverBurkTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/Methods/LeastSquaresTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/PowerLawTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/RegressionTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/TheilSenTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/Regression/WeightedLinearTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Statistics/SignificanceTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/Trigonometry/TrigonometryTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/markrogoyski/math-php/tests/phpunit.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -352,11 +347,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#52#69#0#PHP" expanded="true" />
               </folding>
@@ -376,7 +371,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -425,6 +420,7 @@
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/src/File1.php" />
         <option value="$PROJECT_DIR$/src/File2.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
       </list>
     </option>
   </component>
@@ -434,15 +430,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration">
-    <include_path>
-      <path value="$PROJECT_DIR$/vendor/composer" />
-      <path value="$PROJECT_DIR$/vendor/markrogoyski/math-php" />
-    </include_path>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="592" />
-    <option name="y" value="2" />
+    <option name="x" value="654" />
+    <option name="y" value="1" />
     <option name="width" value="708" />
     <option name="height" value="723" />
   </component>
@@ -458,11 +448,6 @@
             <path>
               <item name="backend_homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="backend_homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="backend_homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="backend_homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -509,12 +494,12 @@
       <updated>1539586950301</updated>
       <workItem from="1539586952086" duration="156000" />
       <workItem from="1539587119978" duration="654000" />
-      <workItem from="1539587790254" duration="615000" />
+      <workItem from="1539587790254" duration="2326000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1425000" />
+    <option name="totallyTimeSpent" value="3136000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -528,7 +513,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -541,7 +526,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295082" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -582,16 +567,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#52#69#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/File2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -628,6 +603,16 @@
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#52#69#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

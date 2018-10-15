@@ -5,7 +5,6 @@ use Sigita\File1;
 use Sigita\File2;
 
 $numbers = File1\createArray(1, 2, 3, 4, 5, 5);
-//$numbers = File1\$numbers();
 $standardDev = File1\standardDeviation($numbers);
 $distribType = File1\distributionType($numbers);
 $createMatrix = File1\createMatrix($numbers);
